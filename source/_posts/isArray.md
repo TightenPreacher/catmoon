@@ -1,6 +1,6 @@
 ---
 title: 判断变量是否为数组
-date: 2018-01-04 16:18:12
+date: 2018-01-15 10:25:11
 tags: javaScript-Array
 categories:
 - 前端基本问题
