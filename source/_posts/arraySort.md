@@ -4,12 +4,12 @@ date: 2018-01-05 09:50:15
 tags: javaScript-Array
 categories:
 - 前端基本问题
-- javaScript
+- 数组
 ---
 **1.数组倒序**  **Array.reverse()**
 
 示例：
-
+<!-- more -->
 ```javascript
 var values = [1,2,3,4,5];
 values.reverse();
