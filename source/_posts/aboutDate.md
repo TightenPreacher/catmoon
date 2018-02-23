@@ -15,8 +15,6 @@ categories:
 var now = new Date()  //获取当前日期与时间
 ```
 
-<!-- more -->
-
 **2-Date.parse()**
 
 ​	Date.parse()接受一个表示日期的字符串参数，返回相应日期的毫秒数。如：
@@ -42,4 +40,3 @@ var someDate = new Date("January 25,2018") 		//与上述例子等同
 var y2k = new Date(Date.UTC(2000,0));		//GTM 时间 2000年1月1日午夜零时
 var allFives = new Date(Date.UTC(2005,4,5,17,55,555)); 		//GTM 时间 2005年5月5日下午5:55:55
 ```
-
