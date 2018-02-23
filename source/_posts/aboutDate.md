@@ -1,6 +1,6 @@
 ---
 title: aboutData
-date: 2018-01-31 15:08:29
+date: 2018-02-23 18:04:39
 tags: javaScript-Date()
 categories:
 - 前端基本问题
@@ -14,7 +14,7 @@ categories:
 ```javascript
 var now = new Date()  //获取当前日期与时间
 ```
-
+<!-- more -->
 **2-Date.parse()**
 
 ​	Date.parse()接受一个表示日期的字符串参数，返回相应日期的毫秒数。如：
